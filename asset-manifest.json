@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-max-dirt-bike/static/css/main.799e85e5.css",
+    "main.js": "/react-max-dirt-bike/static/js/main.3e6267d6.js",
+    "static/js/453.4c6773b3.chunk.js": "/react-max-dirt-bike/static/js/453.4c6773b3.chunk.js",
+    "index.html": "/react-max-dirt-bike/index.html",
+    "main.799e85e5.css.map": "/react-max-dirt-bike/static/css/main.799e85e5.css.map",
+    "main.3e6267d6.js.map": "/react-max-dirt-bike/static/js/main.3e6267d6.js.map",
+    "453.4c6773b3.chunk.js.map": "/react-max-dirt-bike/static/js/453.4c6773b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799e85e5.css",
+    "static/js/main.3e6267d6.js"
+  ]
+}
